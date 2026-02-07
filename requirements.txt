@@ -1,0 +1,7 @@
+torch
+transformers
+Pillow
+click
+tqdm
+numpy
+scipy
